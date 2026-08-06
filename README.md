@@ -53,6 +53,7 @@ Currently, the library supports the following languages:
 - **Tamil** (`ta`)
 - **Gujarati** (`gu`)
 - **Kannada** (`kn`)
+- **Nepali** (`ne`)
 
 To add support for additional languages, you can extend the `badWords.json` file with the desired language's profanity list.
 
